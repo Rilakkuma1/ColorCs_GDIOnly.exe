@@ -1,1 +1,0 @@
-# ColorCs_GDIOnly.exe
